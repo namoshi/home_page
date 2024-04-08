@@ -3,7 +3,9 @@
 ## Profile
 
 Takio Kurita
+
 Invited Senior Researcher, National Institute of Advanced Science and Technology (AIST)
+
 Emeritus Professor, Hiroshima University
 
 ## Research Papers
